@@ -1,0 +1,29 @@
+Rockwell Account Login:
+1) Email Address	kpordes@chicoelectric.com 
+2) Basic Access   
+    First Name		Ken
+    Last Name		Pordes
+    Country		United States
+3) Advanced Access (Optional)
+    Company Name	Chico Electric
+    Address Line1	36 W. Eaton Road
+    Address Line2
+    City		Chico
+    State  		CA	Zip 95973
+    Phone #		530-570-0913
+    Job Title		Accounting/Finance/Purchasing
+    Job Level		Manager
+    Industry		Other
+    Language		English
+4) Password		ChicoElectric0913
+
+BPID (Used For Tech Support) 0099154786 
+
+Norstate Hulling PLC Development Software, Studio5000,Standard Version:
+Part# 9324-RLD300ENE
+Version: 32.00.01
+Serial Number 1203234688
+Product Key QMCH6-7NPR9
+License Type: Concurrent
+Life Term: Permanent
+   

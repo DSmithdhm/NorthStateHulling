@@ -1,0 +1,37 @@
+Wonderware California (AVEVA VAR) Account Login:
+    First Name		Ken
+    Last Name		Pordes
+    Job Title		Purchasing Manager
+    Company Name	Chico Electric
+    Phone 		530-570-0913
+    Address Line1	36 W. Eaton Road
+    Address Line2
+    City		Chico
+    State  		California-CA
+    Zip Code		95973
+    User Name		ChicoElectric36W
+    Password		ChicoElectric0913
+    NSH Order #		191095
+    NSH PO#		AG19-6014 NSH
+support@california.wonderware.com
+Download Link for AVEA Edge ITEH81.5.0 install files
+http://tech-support.eandm.com.s3-us-west-1.amazonaws.com/Support/Wonderware/Intouch%20Edge%20HMI/2017%20Update%205/ITEH81.5.0.zip
+
+AVEVA (Wonderware Owner)Web Account
+    User Type	Customer
+    Email	dsmithdhm@aol.com
+    Password	ChicoElectric0913
+    First Name	David
+    Last Name	Smith
+Primary Product	Wonderware
+    Company Name	Chico Electric
+    Phone 		530-570-0913
+    Address Line1	36 W. Eaton Road
+    Address Line2
+    City		Chico
+    State  		California-CA
+    Country  		United States
+    Zip Code		95973
+
+
+Dell PC loaner from Justin Porter, Workstation A, Hardware Authenication Code 6394 7CF1 1A5A C778 094D 4B3F 18C9 17E1 4717 94
